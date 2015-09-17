@@ -1,7 +1,9 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
-  font-size: 21px;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: lighter;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -27,4 +29,31 @@ body {
 
 .centered {
   text-align: center;
+}
+
+.row {
+  padding-bottom: 50px;
+}
+
+p {
+  padding-bottom: 15px;
+}
+
+.lighter {
+  font-weight: lighter;
+}
+
+.side {
+  color: rgb(85,85,85);
+}
+
+.btn-xl {
+    padding: 15px 22px;
+    font-size: 28px;
+    line-height: 1.33;
+    border-radius: 6px
+}
+
+footer {
+  height: 200px;
 }
