@@ -6,6 +6,14 @@ body {
   font-weight: lighter;
 }
 
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: lighter;
+  }
+}
+
 .theme-dropdown .dropdown-menu {
   position: static;
   display: block;
@@ -84,23 +92,24 @@ footer {
 
 img.bg {
   /* Set rules to fill background */
-  min-height: 100%;
-  min-width: 600px;
+  /*min-height: 100%;*/
+  /*min-width: 600px;*/
 
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
 
   /* Set up positioning */
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
   left: 0;
+  padding-bottom: 50px;
 }
 
 @media screen and (max-width: 768px) { /* Specific to this particular image */
   img.bg {
-    left: 50%;
-    margin-left: -600px;   /* 50% */
+    /*left: 50%;
+    margin-left: -100px;   /* 50% */*/
   }
 }
 
