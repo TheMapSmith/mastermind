@@ -1,6 +1,6 @@
 body {
   padding-top: 70px;
-  padding-bottom: 30px;
+  /*padding-bottom: 30px;*/
   font-size: 28px;
   line-height: 36px;
   font-weight: lighter;
@@ -56,4 +56,20 @@ p {
 
 footer {
   height: 200px;
+}
+
+.breathe {
+  padding-bottom: 50px;
+}
+
+.cta {
+  padding-top: 50px;
+  color: #dedede;
+  background-color: #333;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.white {
+  color: #dedede;
 }
