@@ -115,6 +115,7 @@ img.bg {
 
 .blog-image {
   max-height: 500px;
+  max-width: 65%;
   margin: 0 auto;
   padding-bottom: 25px;
 }
