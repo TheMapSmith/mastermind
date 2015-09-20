@@ -1,9 +1,10 @@
 #Code of Conduct
 
-The Spatial Mastermind
-Version 1: Released September 19 ,2015
+##The Spatial Mastermind  
 
-Changelog:
+Version 1: Released September 19, 2015
+
+Changelog:  
 First release
 
 ##Creating a Culture of Innovation
@@ -22,13 +23,13 @@ The Spatial Professional Mastermind is an odd place. There is a mix of hobbyists
 
 We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
-**Be considerate.**
+**Be considerate.**  
 Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 
-**Be respectful.**
+**Be respectful.**  
 Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
 
-**Be careful in the words that you choose.**
+**Be careful in the words that you choose.**  
 We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
 - Violent threats or language directed against another person.
 - Discriminatory jokes and language.
@@ -40,13 +41,14 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 - Repeated harassment of others.
 In general, if someone asks you to stop, then stop.
 
-**When we disagree, try to understand why.**
+**When we disagree, try to understand why.**  
 Disagreements, both social and technical, happen all the time and The Spatial Mastermind is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of The Spatial Mastermind comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
 ##Boundaries
 Create boundaries to your own behavior and consider how you can create safe space that helps prevent unacceptable behavior by others. We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others.
 
-If you are unsure if something is appropriate behavior, it probably isn’t. Each person you interact with can define where that line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
+**If you are unsure if something is appropriate behavior, it probably isn’t.**  
+Each person you interact with can define where that line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
 
 Here are a few examples of unacceptable behavior:
 - Negative or offensive remarks based on the protected classes of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing. Consider that calling attention to differences can feel alienating.
@@ -60,12 +62,12 @@ Here are a few examples of unacceptable behavior:
 ##Reporting
 This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in The Spatial Mastermind, please speak to the community organizer, owner, or admin. Admins are required to include full contact details in their profile so that you may reach them in multiple ways.
 
-Current Organizers:
-Stephen Smith
-Slack: @themapsmith
-Twitter: @TheMapSmith
-GitHub: @TheMapSmith
-Email: stephen@mapsmith.net
+Current Organizers:  
+Stephen Smith  
+Slack: @themapsmith  
+Twitter: @TheMapSmith  
+GitHub: @TheMapSmith  
+Email: stephen@mapsmith.net  
 
 ##Changes
 These code of conduct may change as The Spatial Mastermind grows and evolves. @everyone will be notified before any changes are made.
